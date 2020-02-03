@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/kureck/kureck.github.io.git
 	branch = master
+[submodule "themes/erblog"]
+	path = themes/erblog
+	url = https://github.com/ertuil/erblog
